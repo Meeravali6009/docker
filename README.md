@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project from Branch QA
+Simple Maven Project from branch1
