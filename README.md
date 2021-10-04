@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project from dev
+Simple Maven Project from dev branch
